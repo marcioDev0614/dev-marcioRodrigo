@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu GitHub! 👋
 
 ### Sobre Mim
-Sou um desenvolvedor .NET
+Sou desenvolvedor .NET
 
 ### 🚀 Tecnologias
 - **Linguagens:** C#
