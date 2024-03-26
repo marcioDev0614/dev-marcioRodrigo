@@ -7,7 +7,7 @@ Sou desenvolvedor .NET
 
 ### 🚀 Tecnologias
 - **Linguagens:** C#
-- **Frontend:** HTML, CSS, SCSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Banco de Dados:** SQL Server
 - **Ferramentas:** Visual Studio, Git
 - **Frameworks Front-end:** Bootstrap
