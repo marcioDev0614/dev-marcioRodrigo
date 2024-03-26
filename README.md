@@ -11,7 +11,7 @@ Sou desenvolvedor .NET
 - **Banco de Dados:** SQL Server
 - **Ferramentas:** Visual Studio, Git
 - **Frameworks Front-end:** Bootstrap
-- **Frameworks Back-end:** ASP.NET, Node-JS, ASP.NET Core MVC, ASP.NET Core, 
+- **Frameworks Back-end:** ASP.NET, ASP.NET Core MVC, ASP.NET Core e Node-JS.
 - **Metodologias:** Agile, Scrum
 
 ### Contato
