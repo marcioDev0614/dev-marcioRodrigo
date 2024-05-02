@@ -10,7 +10,7 @@ Sou desenvolvedor .NET
 - **Frontend:** HTML, CSS, JavaScript
 - **Banco de Dados:** SQL Server
 - **Ferramentas:** Visual Studio, Git
-- **Frameworks Front-end:** Bootstrap, JQuery, VueJS, React e Angular.
+- **Frameworks Front-end:** Bootstrap, JQuery, VueJS e React.
 - **Frameworks Back-end:** ASP.NET, ASP.NET Core MVC, ASP.NET Core e Node-JS.
 - **Metodologias:** Agile, Scrum
 
