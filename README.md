@@ -15,7 +15,7 @@ Sou desenvolvedor .NET
 - **Metodologias:** Agile, Scrum
 
 ### Contato
-- **LinkedIn:** https://www.linkedin.com/in/marcio-rodrigo-2b500b2b/
+- **LinkedIn:** https://www.linkedin.com/in/m%C3%A1rcio-rodrigo-2b500b2b/
 - **E-mail:** marciodev0614@gmail.com
 
 ### Vamos Conectar!
